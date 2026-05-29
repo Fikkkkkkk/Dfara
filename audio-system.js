@@ -17,7 +17,7 @@ const playlist = [
     title:     'Sampai Jadi Debu',
     artist:    'Banda Neira',
     file:      'sampaijadi.mp3',
-    cover:     'assets/music-cover/song1.jpeg',
+    cover:     'dfuru.jpg',
     startTime: 170,       // seconds — where playback begins
     endTime:   null,    // seconds — where it ends/loops (null = full track)
     loopStart: null,    // loop rewind point (null = startTime)
